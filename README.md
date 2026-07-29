@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋, I'm Aditya Chettri
 
-<!--
-**AdityaXhettri/AdityaXhettri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer | AI Enthusiast | Computer Science Student
 
-Here are some ideas to get you started:
+I love building modern web applications, AI-powered solutions, and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Full-Stack Developer
+- 🤖 Learning AI & Automation
+- 🌱 Currently learning FastAPI and advanced backend development
+- 🚀 Built multiple real-world projects
+- 🌍 Freelance experience developing an NGO website
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+
+### Frontend
+- React
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+- FastAPI
+
+### Database
+- MongoDB
+- MySQL
+- Firebase
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 🏆 Certifications
+
+- Deloitte Virtual Internship
+- Hackathon Participation Certificate
+
+---
+
+## 📫 Contact
+
+📧 aditya74949830@gmail.com
+
+🌐 GitHub:
+https://github.com/AdityaXhettri
+
+---
+
+⭐ Thanks for visiting my profile!
