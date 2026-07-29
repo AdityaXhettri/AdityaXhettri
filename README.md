@@ -18,7 +18,7 @@
 <table border="0">
   <tr>
     <td width="120" align="center" valign="middle">
-      <img src="resources/memes/duck_fire.gif" width="105" alt="Duck Fire" />
+      <img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif" width="105" alt="Duck Fire" />
     </td>
     <td valign="middle">
       I bridge the gap between full-stack engineering and AI automation — shipping modern web apps with React, FastAPI and clean databases by day, and sharpening my AI & systems jutsu by night. Currently focused on open-source contributions, mastering FastAPI, and building real-world projects! 🦀🐍
@@ -32,7 +32,7 @@
       😮‍💨 <b>Honest Truth:</b> Some days, the code just wins. Whether I'm staring at a cryptic error for three hours or fixing one bug only to break four other things, tech can get exhausting. When I look completely done with my IDE, Genie steps in to guard my sanity until I recover!
     </td>
     <td width="120" align="center" valign="middle">
-      <img src="resources/harry_potter/leave_him_alone.gif" width="105" alt="Leave Him Alone" />
+      <img src="https://media.giphy.com/media/3o7TKsQ8gqVrXyR2sw/giphy.gif" width="105" alt="Leave Him Alone" />
     </td>
   </tr>
 </table>
@@ -40,13 +40,13 @@
 <table border="0">
   <tr>
     <td width="110" align="center" valign="middle">
-      <img src="resources/gaming/play.gif" width="95" alt="Play" />
+      <img src="https://media.giphy.com/media/3o7TKsQ8gqVrXyR2sw/giphy.gif" width="95" alt="Play" />
     </td>
     <td valign="middle">
       When the keyboard goes quiet, I'm usually immersed in single-player RPGs 🎮, bingeing seasonal anime 🍿, or running back classic One Piece arcs and pure Straw Hat chaos <b>(iykyk)</b>.
     </td>
     <td width="110" align="center" valign="middle">
-      <img src="resources/memes/discord_anger.gif" width="95"  alt="Discord Anger" />
+      <img src="https://media.giphy.com/media/l2JJu8U8SoHhQEnoQ/giphy.gif" width="95"  alt="Discord Anger" />
     </td>
   </tr>
 </table>
@@ -54,13 +54,13 @@
 <table border="0">
   <tr>
     <td width="110" align="center" valign="middle">
-      <img src="resources/harry_potter/hogwarts_letter.gif" width="110" alt="Hogwarts Letter" />
+      <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="110" alt="Hogwarts Letter" />
     </td>
     <td valign="middle">
       ✉️ Like any true Potterhead, I spent years waiting for my Hogwarts acceptance letter to arrive by owl 🦉. When it never showed up, I decided to craft my own magic here instead — turning ideas into software and stories! 🪄✨
     </td>
     <td width="110" align="center" valign="middle">
-      <img src="resources/harry_potter/albus_clap.gif" width="110" alt="Albus Dumbledore Clapping" />
+      <img src="https://media.giphy.com/media/3o6Mb62RpC3w2QxqLK/giphy.gif" width="110" alt="Albus Dumbledore Clapping" />
     </td>
   </tr>
 </table>
@@ -71,7 +71,7 @@
       💬 Want to discuss anime recommendations, swap sailing logs, or collaborate on tech projects? Feel free to send an owl 🦉 over <a href="https://github.com/AdityaXhettri/AdityaXhettri/issues">to my GitHub issues page</a>! 📨
     </td>
     <td width="120" align="center" valign="middle">
-      <img src="resources/memes/cat_meme.gif" width="105" alt="Cat Meme" />
+      <img src="https://media.giphy.com/media/3o6Zt481isNVHVWaJ2/giphy.gif" width="105" alt="Cat Meme" />
     </td>
   </tr>
 </table>
@@ -85,9 +85,9 @@
 <hr/>
 
 <h2 align="center">
-    <img src="resources/harry_potter/spell_book.gif" height="65" align="middle" alt="Spell Book" />
+    <img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif" height="65" align="middle" alt="Spell Book" />
     <span style="margin: 0 10px;">Dev Spellbook</span>
-    <img src="resources/harry_potter/love_potion.gif" height="55" align="middle" alt="Love Potion" />
+    <img src="https://media.giphy.com/media/l2JdZOqRZYkAjSkmY/giphy.gif" height="55" align="middle" alt="Love Potion" />
 </h2>
 <br/>
 
@@ -104,17 +104,12 @@
 <hr>
 
 <h2 align="center">
-    <img src="resources/gaming/sonic.gif" height="40" width="40" align="middle" alt="Sonic" />
+    <img src="https://media.giphy.com/media/3o7TKsQ8gqVrXyR2sw/giphy.gif" height="40" width="40" align="middle" alt="Sonic" />
     <span style="margin: 0 10px;">Arcade</span>
-    <img src="resources/gaming/pikachu.gif" height="40" width="40" align="middle" alt="Pikachu" />
+    <img src="https://media.giphy.com/media/3o6Mb62RpC3w2QxqLK/giphy.gif" height="40" width="40" align="middle" alt="Pikachu" />
 </h2>
 <div align="center">
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaXhettri/AdityaXhettri/main/pacman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaXhettri/AdityaXhettri/main/pacman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AdityaXhettri/AdityaXhettri/main/pacman-contribution-graph.svg?game=bomberman">
-</picture>
-<img data-importer="snake" src="https://raw.githubusercontent.com/AdityaXhettri/AdityaXhettri/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaXhettri&theme=dracula&hide_border=true&area=true&radius=8" alt="GitHub Activity Graph" />
 </div>
 <hr/>
 
@@ -135,7 +130,7 @@
 <table border="0">
   <tr>
     <td width="150" align="center" valign="middle">
-      <img src="resources/harry_potter/mischief_managed.gif" width="130" alt="Mischief Managed" />
+      <img src="https://media.giphy.com/media/l2JJu8U8SoHhQEnoQ/giphy.gif" width="130" alt="Mischief Managed" />
     </td>
     <td valign="middle">
       Thanks for stopping by! Words and code are our most inexhaustible source of magic — capable of building entire worlds out of thin air. Whether you're here to collaborate or just explore, feel free to reach out. Until next time, mischief managed! ⚡🪄
