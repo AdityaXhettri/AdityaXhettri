@@ -32,7 +32,7 @@
       😮‍💨 <b>Honest Truth:</b> Some days, the code just wins. Whether I'm staring at a cryptic error for three hours or fixing one bug only to break four other things, tech can get exhausting. When I look completely done with my IDE, Genie steps in to guard my sanity until I recover!
     </td>
     <td width="120" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/3o7TKsQ8gqVrXyR2sw/giphy.gif" width="105" alt="Leave Him Alone" />
+      <img src="https://media.giphy.com/media/l2JJu8U8SoHhQEnoQ/giphy.gif" width="105" alt="Zoro Swords" />
     </td>
   </tr>
 </table>
