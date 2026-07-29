@@ -110,6 +110,8 @@
 </h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaXhettri&theme=dracula&hide_border=true&area=true&radius=8" alt="GitHub Activity Graph" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/AdityaXhettri/AdityaXhettri/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 <hr/>
 
