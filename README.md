@@ -29,7 +29,7 @@
 <table border="0">
   <tr>
     <td valign="middle">
-      😮‍💨 <b>Honest Truth:</b> Some days, the code just wins. Whether I'm staring at a cryptic error for three hours or fixing one bug only to break four other things, tech can get exhausting. When I look completely done with my IDE, Genie steps in to guard my sanity until I recover!
+      😮‍💨 Honest Truth: Some nights I close the laptop and stare at the ceiling wondering why I chose this. Then the next morning a bug gets fixed and it feels like winning the World Cup all over again. Every. Single. Time. 🏆
     </td>
     <td width="120" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/40d6a739-5e30-464d-a603-5810bb76baa9" width="105" alt="GIF 2" />
