@@ -15,23 +15,24 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
           args: >
             --github_user_name ${{ github.repository_owner }}
             --save_svg
             --palette github-dark
+            --palette github-light
             --gif_out_path ./dist/github-contribution-grid-snake.gif
             --svg_out_path ./dist/github-contribution-grid-snake.svg
 
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          commit_message: "Update snake animation"
-          user_name: github-actions[bot]
-          user_email: github-actions[bot]@users.noreply.github.com
-          force_orphan: true
+      - name: Push dist to output branch
+        run: |
+          cd dist
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git init
+          git checkout -b output
+          git add .
+          git commit -m "Update snake animation" --allow-empty
+          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git output
