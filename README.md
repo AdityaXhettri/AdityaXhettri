@@ -21,7 +21,7 @@
       <img src="https://github.com/user-attachments/assets/7e1b4196-4c6a-47be-809d-75ce4ea78ec2" width="105" alt="GIF 1" />
     </td>
     <td valign="middle">
-      I bridge the gap between full-stack engineering and AI automation — shipping modern web apps with React, FastAPI and clean databases by day, and sharpening my AI & systems jutsu by night. Currently focused on open-source contributions, mastering FastAPI, and building real-world projects! 🦀🐍
+      I bridge the gap between full-stack engineering and AI automation — shipping modern web apps with React, FastAPI and clean databases by day, and sharpening my AI & systems jutsu by night. Currently focused on open-source contributions, mastering FastAPI, and building real-world projects! 👾💗
     </td>
   </tr>
 </table>
