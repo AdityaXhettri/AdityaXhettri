@@ -115,18 +115,6 @@
 </div>
 <hr/>
 
-<h2 align="center">
-    <img src="https://readme-asset-proxy-three.vercel.app/api?side=left&v=5" height="65" align="middle" alt="Dojo Left" />
-    <span style="margin: 0 10px;">道場 (My Dojo)</span>
-    <img src="https://readme-asset-proxy-three.vercel.app/api?side=right&v=5" height="65" align="middle" alt="Dojo Right" />
-</h2>
-<br>
-<div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaXhettri&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/AdityaXhettri/AdityaXhettri/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AdityaXhettri&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-<br/>
 <hr/>
 
 <table border="0">
