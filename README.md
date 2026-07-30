@@ -57,7 +57,7 @@
       <img src="https://github.com/user-attachments/assets/c0028019-5b06-44d8-a917-44715810e413" width="110" alt="GIF 5" />
     </td>
     <td valign="middle">
-      ✉️ Like any true Potterhead, I spent years waiting for my Hogwarts acceptance letter to arrive by owl 🦉. When it never showed up, I decided to craft my own magic here instead — turning ideas into software and stories! 🪄✨
+      Like any Hashira in training, I spent years chasing the rank that would prove my worth ⚔️🔥. When the sun finally rose, I decided to forge my own Breathing Style here instead — turning ideas into clean blades of code! 🗡️✨
     </td>
     <td width="110" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/041ff017-2980-44ad-a233-854845be7ed6" width="110" alt="GIF 6" />
