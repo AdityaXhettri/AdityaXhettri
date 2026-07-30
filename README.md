@@ -43,7 +43,7 @@
       <img src="https://github.com/user-attachments/assets/eb6b96e6-d414-43bd-8110-f4cdb6da1dc2" width="95" alt="GIF 3" />
     </td>
     <td valign="middle">
-      When the keyboard goes quiet, I'm usually immersed in single-player RPGs 🎮, bingeing seasonal anime 🍿, or running back classic One Piece arcs and pure Straw Hat chaos <b>(iykyk)</b>.
+      When the keyboard goes quiet, I'm usually immersed in single-player RPGs 🎮, bingeing seasonal anime 🍿, or running back classic One Piece arcs and pure Straw Hat chaos <b></b>.
     </td>
     <td width="110" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/0a29312d-7071-42ef-b1ea-ca327f20814b" width="95" alt="GIF 4" />
