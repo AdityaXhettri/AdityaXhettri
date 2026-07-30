@@ -18,7 +18,7 @@
 <table border="0">
   <tr>
     <td width="120" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/7e1b4196-4c6a-47be-809d-75ce4ea78ec2" width="480" height="270" alt="GIF 1" />
+      <img src="https://github.com/user-attachments/assets/7e1b4196-4c6a-47be-809d-75ce4ea78ec2" width="105" alt="GIF 1" />
     </td>
     <td valign="middle">
       I bridge the gap between full-stack engineering and AI automation — shipping modern web apps with React, FastAPI and clean databases by day, and sharpening my AI & systems jutsu by night. Currently focused on open-source contributions, mastering FastAPI, and building real-world projects! 🦀🐍
@@ -32,7 +32,7 @@
       😮‍💨 <b>Honest Truth:</b> Some days, the code just wins. Whether I'm staring at a cryptic error for three hours or fixing one bug only to break four other things, tech can get exhausting. When I look completely done with my IDE, Genie steps in to guard my sanity until I recover!
     </td>
     <td width="120" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/40d6a739-5e30-464d-a603-5810bb76baa9" width="450" height="450" alt="GIF 2" />
+      <img src="https://github.com/user-attachments/assets/40d6a739-5e30-464d-a603-5810bb76baa9" width="105" alt="GIF 2" />
     </td>
   </tr>
 </table>
@@ -40,13 +40,13 @@
 <table border="0">
   <tr>
     <td width="110" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/eb6b96e6-d414-43bd-8110-f4cdb6da1dc2" width="480" height="270" alt="GIF 3" />
+      <img src="https://github.com/user-attachments/assets/eb6b96e6-d414-43bd-8110-f4cdb6da1dc2" width="95" alt="GIF 3" />
     </td>
     <td valign="middle">
       When the keyboard goes quiet, I'm usually immersed in single-player RPGs 🎮, bingeing seasonal anime 🍿, or running back classic One Piece arcs and pure Straw Hat chaos <b>(iykyk)</b>.
     </td>
     <td width="110" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/0a29312d-7071-42ef-b1ea-ca327f20814b" width="480" height="270" alt="GIF 4" />
+      <img src="https://github.com/user-attachments/assets/0a29312d-7071-42ef-b1ea-ca327f20814b" width="95" alt="GIF 4" />
     </td>
   </tr>
 </table>
@@ -54,13 +54,13 @@
 <table border="0">
   <tr>
     <td width="110" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/c0028019-5b06-44d8-a917-44715810e413" width="480" height="270" alt="GIF 5" />
+      <img src="https://github.com/user-attachments/assets/c0028019-5b06-44d8-a917-44715810e413" width="110" alt="GIF 5" />
     </td>
     <td valign="middle">
       ✉️ Like any true Potterhead, I spent years waiting for my Hogwarts acceptance letter to arrive by owl 🦉. When it never showed up, I decided to craft my own magic here instead — turning ideas into software and stories! 🪄✨
     </td>
     <td width="110" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/041ff017-2980-44ad-a233-854845be7ed6" width="480" height="252" alt="GIF 6" />
+      <img src="https://github.com/user-attachments/assets/041ff017-2980-44ad-a233-854845be7ed6" width="110" alt="GIF 6" />
     </td>
   </tr>
 </table>
@@ -71,7 +71,7 @@
       💬 Want to discuss anime recommendations, swap sailing logs, or collaborate on tech projects? Feel free to send an owl 🦉 over <a href="https://github.com/AdityaXhettri/AdityaXhettri/issues">to my GitHub issues page</a>! 📨
     </td>
     <td width="120" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/8f82af08-e9d4-43cc-b655-9688b9e1a444" width="480" height="252" alt="GIF 7" />
+      <img src="https://github.com/user-attachments/assets/8f82af08-e9d4-43cc-b655-9688b9e1a444" width="105" alt="GIF 7" />
     </td>
   </tr>
 </table>
@@ -85,9 +85,9 @@
 <hr/>
 
 <h2 align="center">
-    <img src="https://github.com/user-attachments/assets/d96f51e6-bc0b-4363-bcb7-477c701fd3d8" height="65" align="middle" alt="Spell Book" />
+    <img src="https://github.com/user-attachments/assets/d96f51e6-bc0b-4363-bcb7-477c701fd3d8" height="40" align="middle" alt="Spell Book" />
     <span style="margin: 0 10px;">Dev Spellbook</span>
-    <img src="https://github.com/user-attachments/assets/5cdc41b3-7645-4801-87eb-1dc2f0d26d78" height="55" align="middle" alt="Love Potion" />
+    <img src="https://github.com/user-attachments/assets/5cdc41b3-7645-4801-87eb-1dc2f0d26d78" height="40" align="middle" alt="Love Potion" />
 </h2>
 <br/>
 
@@ -104,7 +104,7 @@
 <hr>
 
 <h2 align="center">
-    <img src="https://github.com/user-attachments/assets/049ee029-701e-4d6d-ad1f-7fd5f726684b" height="40" width="40" align="middle" alt="Sonic" />
+    <img src="https://github.com/user-attachments/assets/049ee029-701e-4d6d-ad1f-7fd5f726684b" height="40" align="middle" alt="Sonic" />
     <span style="margin: 0 10px;">Arcade</span>
     <img src="https://github.com/user-attachments/assets/7e1b4196-4c6a-47be-809d-75ce4ea78ec2" height="40" width="40" align="middle" alt="Pikachu" />
 </h2>
@@ -134,7 +134,7 @@
 <table border="0">
   <tr>
     <td width="150" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/40d6a739-5e30-464d-a603-5810bb76baa9" width="130" alt="Mischief Managed" />
+      <img src="https://github.com/user-attachments/assets/40d6a739-5e30-464d-a603-5810bb76baa9" width="100" alt="Mischief Managed" />
     </td>
     <td valign="middle">
       Thanks for stopping by! Words and code are our most inexhaustible source of magic — capable of building entire worlds out of thin air. Whether you're here to collaborate or just explore, feel free to reach out. Until next time, mischief managed! ⚡🪄
